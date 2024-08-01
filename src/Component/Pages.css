@@ -1,0 +1,10 @@
+@media screen and (min-width: 1024px) {
+  .box{
+   height: 20rem;
+  }
+  .emage{
+    height: 20rem;
+    width: auto;
+  }
+ 
+  }
